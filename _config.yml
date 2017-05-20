@@ -17,16 +17,16 @@ repository               : "alanyannick/alanyannick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+comments: true
+  provider               : disqus
   disqus:
-    shortname            :
+    shortname            : yangmingwen
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : # 10 (default)
+    colorscheme          : # "dark" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Yangming Wen"
-  avatar           : "profile.png"
+  avatar           : "images/Aibio.jpg"
   bio              : "cv & dl researcher"
   location         : "China"
   employer         : 
@@ -109,7 +109,7 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-
+  csdn		       : "http://blog.csdn.net/u011534057" 
 
 # Reading Files
 include:
