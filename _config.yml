@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yangming's daily note"
+title                    : "yangming's Blog"
 title_separator          : "-"
 name                     : &name "Yangming Wen"
 description              : &description "Research orientation:Computer vision& Deep Learning"
@@ -80,7 +80,7 @@ author:
   name             : "Yangming Wen"
   avatar           : "profile.png"
   bio              : "cv & dl researcher"
-  location         : "Location"
+  location         : "China"
   employer         : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "yummyym35@gmail.com"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/alanyannick/"
+  github           : "alanyannick"
   google_plus      :
   keybase          :
   instagram        : 
